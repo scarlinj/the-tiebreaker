@@ -1,4 +1,4 @@
-# ⚖️ The Tiebreaker — Decision Engine v2.4
+# ⚖️ The Tiebreaker — Decision Engine
 
 **The Tiebreaker** is a professional, high-fidelity full-stack decision analysis platform designed to help founders, product owners, and professionals cut through analysis paralysis. Operating in an elegant, high-contrast Bento Grid aesthetic, it uses the advanced intelligence of Gemini-3.5-Flash to transform highly ambiguous, multi-variable decisions into beautifully structured, actionable decision dossiers.
 
